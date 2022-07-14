@@ -1,4 +1,4 @@
-#solved using hashmap 
+//solved using hashmap 
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
